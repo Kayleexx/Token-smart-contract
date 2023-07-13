@@ -54,7 +54,7 @@ Modify the Hardhat configuration file `hardhat.config.js` according to your spec
 3. Deploy the contract using Remix's "Deploy & Run Transactions" feature.
 4. Once the contract is deployed, you can interact with it by calling its functions in Remix. Available functions include minting, burning, transferring tokens, and checking balances.
 
-5. ## Contributing
+## Contributing
 
 Contributions to this repository are not accepted as it is for personal assignments. However, if you have suggestions or feedback, feel free to open an issue.
 
